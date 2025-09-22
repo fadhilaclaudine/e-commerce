@@ -1,14 +1,13 @@
-<?php include 'config.php'; ?>
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="fr">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style/style.css">
-        <title>Site de vêtements</title>
+        <title>Mon Panier</title>
     </head>
     <body>
-        <h2>Bienvenu dans notre boutique de vêtements</h1>
-        <a href="Produits.php">Voir les Produits</a>
+        <h1>Mon Panier</h1>
+        <p>Aucun article dans le panier pour le moment.</p>
     </body>
 </html>
